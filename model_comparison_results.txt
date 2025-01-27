@@ -1,0 +1,18 @@
+Model: KNN
+Accuracy: 0.9556, Precision: 0.9580, Recall: 0.9556, F1 Score: 0.9558
+
+Model: Decision Tree
+Accuracy: 0.5023, Precision: 0.5050, Recall: 0.5023, F1 Score: 0.5031
+
+Model: Naive Bayes
+Accuracy: 0.9377, Precision: 0.9392, Recall: 0.9377, F1 Score: 0.9378
+
+Model: Gradient Boosting
+Accuracy: 0.9307, Precision: 0.9313, Recall: 0.9307, F1 Score: 0.9307
+
+Model: Logistic Regression
+Accuracy: 0.9609, Precision: 0.9617, Recall: 0.9609, F1 Score: 0.9610
+
+Model: Random Forest
+Accuracy: 0.9240, Precision: 0.9245, Recall: 0.9240, F1 Score: 0.9233
+
